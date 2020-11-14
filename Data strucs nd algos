@@ -1,0 +1,11 @@
+* Data structures : Diffrent methods of putting information of our computers .
+
+* Algorithms : opertations on deffrent data structures and sets the ways for executing them .
+
+* the value of int is stored as 32 bits on memory                    a bit = 1 or 0
+
+* memory is a long tape of bytes and and each byte equal 8 bits 
+
+* Object is the variables = attributes ( name , age ) and functions = methods ( sleep , walk ) that refer to someone .
+
+* Class is a blue print where we can classify our similar objects in sort of organising .
