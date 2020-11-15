@@ -26,3 +26,26 @@
                     
 * Recursion : the process of reapiting items in self similiar way .
                        
+* Big O notation : is the most common metr way to calculate time complexity.
+                   It describes the execution time of a task corresponding to the quantity of steps needed to finish it.
+                   
+* Trees : A tree is a nonlinear hierarchical data structure that contains nodes connected by edges.
+
+* binary search : is a searching algorithm for finding an element's position in a sorted array.
+
+* Quicksort : is an algorithm based on divide and conquer approach in which the array is split into subarrays 
+              and these sub-arrays are recursively called to sort the elements.
+              
+* Stack : It is just like a pile of plates kept on top of each other.
+          If you want the plate at the bottom, you have to first remove all the plates on top .
+          
+* Queue : It is similar to the ticket queue outside a cinema hall, where the first person entering the queue 
+          is the first person who gets the ticket.           
+
+* hash table : is a data structure that represents data in the form of key-value pairs. 
+               Each key is related to a value in the hash table.
+               
+               
+
+
+                   
